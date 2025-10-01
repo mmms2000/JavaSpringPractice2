@@ -16,7 +16,9 @@ public class AppConfig {
     @Bean(name = "cat")
     @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
     public Cat cat() {
-        return new Cat();
+        Cat cat = new Cat();
+        cat.setName("Kitty");
+        return cat;
     }
 }
 
