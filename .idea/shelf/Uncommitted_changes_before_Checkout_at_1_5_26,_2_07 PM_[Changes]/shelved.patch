@@ -1,0 +1,43 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7da26ca3-7c10-4820-84ed-d981cd70e6bf\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/App.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/App.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/Cat.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/Cat.class\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"task_2_1_4\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;mmms2000&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/mmms2000/JavaSpringPractice2.git&quot;,\n    &quot;accountId&quot;: &quot;1d4fa48e-8900-4047-807a-f39ba2969055&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 0\n}</component>\n  <component name=\"ProjectId\" id=\"33M56mLNa15Zon4ZidstE1JIvk1\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Application.App.executor&quot;: &quot;Run&quot;,\n    &quot;Application.Application.executor&quot;: &quot;Run&quot;,\n    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;task__2__1__3&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"Cat\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7da26ca3-7c10-4820-84ed-d981cd70e6bf\" name=\"Changes\" comment=\"\" />\n      <created>1759113927814</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759113927814</updated>\n      <workItem from=\"1759113928870\" duration=\"16365000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5673bd265116e27a494fac7635e77043e8ccaf79)
++++ b/.idea/workspace.xml	(date 1764146714118)
+@@ -6,8 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="7da26ca3-7c10-4820-84ed-d981cd70e6bf" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cat.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -54,8 +52,13 @@
+     &quot;Application.App.executor&quot;: &quot;Run&quot;,
+     &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+     &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;task__2__1__3&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+ }</component>
+   <component name="RecentsManager">
+@@ -78,7 +81,9 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1759113927814</updated>
+-      <workItem from="1759113928870" duration="16365000" />
++      <workItem from="1759113928870" duration="20381000" />
++      <workItem from="1760953761440" duration="1000" />
++      <workItem from="1764146702952" duration="12000" />
+     </task>
+     <servers />
+   </component>
